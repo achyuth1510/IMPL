@@ -1,7 +1,7 @@
 import sys
 
-num1 = int(sys.argv[1])
-num2 = int(sys.argv[2])
+a = int(sys.argv[1])
+b = int(sys.argv[2])
 
 sum = a + b
 sub = a - b
