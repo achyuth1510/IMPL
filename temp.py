@@ -1,5 +1,7 @@
-a = int(input("Enter the first number : "))
-b = int(input("Enter the second  number : "))
+import sys
+
+num1 = int(sys.argv[1])
+num2 = int(sys.argv[2])
 
 sum = a + b
 sub = a - b
